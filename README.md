@@ -13,5 +13,7 @@ Project was recreated by me with a purpose of learning. Simple To-do list that a
 
 - Js
 - React
+- HTML
+- CSS
 
 ## **2024**
