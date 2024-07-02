@@ -11,9 +11,7 @@ Project was recreated by me with a purpose of learning. Simple To-do list that a
 
 ## Technlogies Used
 
-- MongoDB
-- Express.js
+- Js
 - React
-- Node.js
 
 ## **2024**
